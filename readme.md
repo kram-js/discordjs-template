@@ -8,7 +8,7 @@
 - sqlite3 @ 5.1
 
 ---
-# Intsallation
+# Installation
 npm:
 ```
 npm i
