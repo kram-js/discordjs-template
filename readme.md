@@ -17,6 +17,7 @@ yarn:
 ```
 yarn add discord.js sequelize sqlite3
 ```
+Add a `database.sqlite` file on the main directory
 
 ---
 # Docs
