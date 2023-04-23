@@ -27,4 +27,4 @@ Add a `database.sqlite` file on the main directory
 - [Sequelize](https://sequelize.org/)
 
 # Help
-Errors/Problems ? Contact me here: kram#1234
+Errors/Problems ? Contact me here: young2chen#3110
